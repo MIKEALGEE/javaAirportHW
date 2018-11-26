@@ -1,0 +1,16 @@
+public enum AirportCode {
+    AGD,
+    GLA,
+    EDI,
+    KSH,
+    SJD,
+    LWI,
+    SKH,
+    WHM,
+    WEK,
+    HEJ,
+    KQJ,
+    WKS,
+    LKJ,
+    KWJ,
+}
